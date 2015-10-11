@@ -1,0 +1,14 @@
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\TwitterLike.Models.dll.config
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\TwitterLike.Models.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\TwitterLike.Models.pdb
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\EntityFramework.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\EntityFramework.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\obj\Debug\TwitterLike.Models.csprojResolveAssemblyReference.cache
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\obj\Debug\TwitterLike.Models.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Models\obj\Debug\TwitterLike.Models.pdb

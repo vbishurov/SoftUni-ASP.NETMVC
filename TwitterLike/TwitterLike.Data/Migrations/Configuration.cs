@@ -2,7 +2,7 @@ namespace TwitterLike.Data.Migrations
 {
     using System.Data.Entity.Migrations;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<TwitterLikeDbContext>
     {
         public Configuration()
         {
@@ -10,7 +10,7 @@ namespace TwitterLike.Data.Migrations
             this.AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(ApplicationDbContext context)
+        protected override void Seed(TwitterLikeDbContext context)
         {
         }
     }

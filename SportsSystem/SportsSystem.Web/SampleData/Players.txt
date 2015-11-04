@@ -1,0 +1,13 @@
+﻿Name Birth Date Height Team
+Alexis Sanchez&1982-01-03&1.65&FC Barcelona
+Arjen Robben&1982-01-03&1.65&Real Madrid
+Franck Ribery&1982-01-03&1.65&Manchester United F.C.
+Wayne Rooney&1982-01-03&1.65&Manchester United F.C.
+Lionel Messi&1982-01-13&1.65&(NULL)
+Theo Walcott&1983-02-17&1.75&(NULL)
+Cristiano Ronaldo&1984-03-16&1.85&(NULL)
+Aaron Lennon&1985-04-15&1.95&(NULL)
+Gareth Bale&1986-05-14&1.90&(NULL)
+Antonio Valencia&1987-05-23&1.82&(NULL)
+Robin van Persie&1988-06-13&1.84&(NULL)
+Ronaldinho&1989-07-30&1.87&(NULL)

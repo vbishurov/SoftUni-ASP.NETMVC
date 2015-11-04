@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
+
 using Microsoft.Owin;
-using TwitterLike;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
@@ -14,7 +14,6 @@ using TwitterLike;
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: OwinStartup(typeof(Startup))]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -22,7 +21,7 @@ using TwitterLike;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("eb8e836f-faa3-49fc-8e0a-5e75fb2a22e0")]
+[assembly: Guid("efbfe8d8-07f1-44d1-a12c-569d44845c76")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -35,3 +34,4 @@ using TwitterLike;
 // by using the '*' as shown below:
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: OwinStartup(typeof(TwitterLike.Startup))]

@@ -1,0 +1,8 @@
+﻿Name Web Site Date Founded Nickname
+Manchester United F.C.&http://www.manutd.com&1-Jun-1878&The Red Devils
+Real Madrid&http://www.realmadrid.com&6-Mar-1902&The Whites
+FC Barcelona&http://www.fcbarcelona.com&12-Nov-1899&Barca
+Bayern Munich&http://www.fcbayern.de&13-Feb-1900&The Bavarians
+Manchester City&http://www.mcfc.com&1-May-1880&The Citizens
+Chelsea&https://www.chelseafc.com&10-Mar-1905&The Pensioners
+Arsenal&http://www.arsenal.com&1-Sep-1886&The Gunners

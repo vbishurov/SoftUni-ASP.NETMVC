@@ -1,5 +1,6 @@
 ﻿namespace TwitterLike.Models
 {
+    using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations.Schema;
 
@@ -18,12 +19,14 @@
             this.reportedBy = new HashSet<ApplicationUser>();
         }
 
+        public DateTime DateTime { get; set; }
+
+        public string Content { get; set; }
+
         [ForeignKey("User")]
         public string UserId { get; set; }
 
         public virtual ApplicationUser User { get; set; }
-
-        public int RetweetsCount => this.retweetedBy.Count;
 
         public bool IsReported { get; set; }
 

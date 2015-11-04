@@ -1,0 +1,9 @@
+﻿Match Home Bet Away Bet User
+Chelsea - FC Barcelona&30.00&0.00&alex@usa.net
+Chelsea - FC Barcelona&0.00&50.00&alex@usa.net
+Chelsea - FC Barcelona&0.00&120.00&alex@usa.net
+FC Barcelona - Manchester City&120.00&0.00&alex@usa.net
+Bayern Munich - Manchester United F.C.&500.00&0.00&alex@usa.net
+Bayern Munich - Manchester United F.C.&50.00&0.00&tanya@gmail.com
+Bayern Munich - Manchester United F.C.&0.00&20.00&tanya@gmail.com
+Chelsea - FC Barcelona&0.00&220.00&tanya@gmail.com

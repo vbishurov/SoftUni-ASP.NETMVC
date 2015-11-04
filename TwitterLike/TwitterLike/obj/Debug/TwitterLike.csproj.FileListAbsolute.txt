@@ -40,9 +40,7 @@ D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.WebPages.dll
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.WebPages.Razor.dll
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\WebGrease.dll
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Antlr3.Runtime.pdb
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Newtonsoft.Json.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.Helpers.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.Mvc.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.Optimization.xml
@@ -50,6 +48,8 @@ D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.WebPages.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.WebPages.Deployment.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\System.Web.WebPages.Razor.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Antlr3.Runtime.pdb
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Newtonsoft.Json.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\EntityFramework.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\EntityFramework.SqlServer.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\Microsoft.AspNet.Identity.Core.xml
@@ -69,7 +69,3 @@ D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\obj\Debug\T
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\obj\Debug\TwitterLike.csproj.GenerateResource.Cache
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\obj\Debug\TwitterLike.dll
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\obj\Debug\TwitterLike.pdb
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\TwitterLike.Data.dll
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\TwitterLike.Models.dll
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\TwitterLike.Data.pdb
-D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike\bin\TwitterLike.Models.pdb

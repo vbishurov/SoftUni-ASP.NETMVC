@@ -59,9 +59,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ITwitterLikeData.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="TwitterLikeData.cs" />
+    <Compile Include="TwitterLikeDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -71,6 +73,10 @@
     <ProjectReference Include="..\TwitterLike.Models\TwitterLike.Models.csproj">
       <Project>{4059E5EB-4FAA-407A-A834-3F5AA35EC995}</Project>
       <Name>TwitterLike.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TwitterLike.Repositories\TwitterLike.Repositories.csproj">
+      <Project>{22034FA6-87AD-4277-BE96-6648CFAAD5FA}</Project>
+      <Name>TwitterLike.Repositories</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

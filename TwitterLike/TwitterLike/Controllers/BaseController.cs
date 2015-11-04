@@ -2,12 +2,12 @@
 {
     using System.Web;
     using System.Web.Mvc;
+
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.Owin;
     using Microsoft.Owin.Security;
 
-    [RequireHttps]
-    public abstract class BaseController : Controller
+    public abstract class BaseController: Controller
     {
         public const string XsrfKey = "XsrfId";
 
@@ -30,6 +30,7 @@
             {
                 return this.signInManager ?? this.HttpContext.GetOwinContext().Get<ApplicationSignInManager>();
             }
+
             private set
             {
                 this.signInManager = value;
@@ -42,6 +43,7 @@
             {
                 return this.userManager ?? this.HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
             }
+
             private set
             {
                 this.userManager = value;
@@ -80,7 +82,7 @@
 
         protected ActionResult RedirectToLocal(string returnUrl)
         {
-            if (this.Url.IsLocalUrl(returnUrl))
+            if (Url.IsLocalUrl(returnUrl))
             {
                 return this.Redirect(returnUrl);
             }

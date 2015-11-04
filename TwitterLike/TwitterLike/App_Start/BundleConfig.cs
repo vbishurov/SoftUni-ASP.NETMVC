@@ -7,18 +7,17 @@
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/Libs/jquery-{version}.js",
-                        "~/Scripts/Libs/jquery-ui-{version}.js"));
+                        "~/Scripts/jquery-{version}.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
-                        "~/Scripts/Libs/jquery.validate*"));
-
+                        "~/Scripts/jquery.validate*"));
+            
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
-                        "~/Scripts/Libs/modernizr-*"));
+                        "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/Libs/bootstrap.js",
-                      "~/Scripts/Libs/respond.js"));
+                      "~/Scripts/bootstrap.js",
+                      "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",

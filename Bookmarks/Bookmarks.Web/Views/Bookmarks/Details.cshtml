@@ -1,0 +1,57 @@
+﻿@model Bookmarks.Web.Models.ViewModels.BookmarkDetailsViewModel
+
+@{
+    ViewBag.Title = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Name):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Url):
+        </dt>
+
+        <dd>
+            <a href="@Model.Url">@Model.Url</a>
+        </dd>
+    </dl>
+    <hr />
+
+    <div class="pull-right">
+        Votes: @Model.VotesCount, Average rating: @Model.AverageRating<br />
+        @using (Ajax.BeginForm("Vote", new AjaxOptions() { HttpMethod = "Post" }))
+        {
+            <input type="text" name="Stars"/>
+            <input type="submit" class="pull-right" value="Vote" />
+        }
+    </div>
+
+    <h3>Comments</h3>
+
+    @foreach (var comment in Model.Comments)
+    {
+        <div>@comment.Text</div>
+        <span>By: @comment.Username</span>
+    }
+</div>
+<hr />
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

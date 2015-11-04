@@ -14,3 +14,5 @@ D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\De
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\Debug\TwitterLike.Repositories.dll
+D:\My Documents\workspace\SoftUni-ASP.NETMVC\TwitterLike\TwitterLike.Data\bin\Debug\TwitterLike.Repositories.pdb

@@ -1,0 +1,12 @@
+﻿Home Team Away Team Match Date
+Real Madrid&Manchester United F.C.&2015-Jun-13
+Bayern Munich&Manchester United F.C.&2015-Jun-14
+FC Barcelona&Manchester City&2015-Jun-15
+Chelsea&FC Barcelona&2015-Jun-16
+Real&Madrid Manchester City&2015-Jun-17
+Manchester United&F.C. Chelsea&2015-Jun-18
+Arsenal&Bayern Munich&2015-Jun-12
+Chelsea&Real Madrid&2015-Jun-11
+Chelsea&Manchester City&2015-Jun-10
+Chelsea&Arsenal&2015-Jun-19
+Arsenal&FC Barcelona&2015-Jun-20

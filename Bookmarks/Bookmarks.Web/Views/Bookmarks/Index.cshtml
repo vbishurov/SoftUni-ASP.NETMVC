@@ -1,0 +1,17 @@
+﻿@using Bookmarks.Web.Models.ViewModels;
+@using Bookmarks.Web.Helpers
+
+@model IGrouping<QueryTotalSize, BookmarkListViewModel>
+
+@{
+    ViewBag.Title = "Bookmarks";
+}
+
+@Html.ListBookmarks(Model.Select(b => b).ToList())
+
+@{
+    int currentPage = ViewBag.CurrentPage;
+    int lastPage = (Model.Key.Total / ViewBag.PageSize) + (Model.Key.Total % ViewBag.PageSize > 0 ? 1 : 0);
+}
+
+@Html.Pager(currentPage, lastPage)
